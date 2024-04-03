@@ -1,2 +1,2 @@
 # first_project
-test projrct
+test project
